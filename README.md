@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# Machine_Learning_Algorithms
+# Machine Learning Algorithms
 Repository contains the  Machine Learning algorithms
 
 [Supervised ML Algorithms](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/Supervised)
