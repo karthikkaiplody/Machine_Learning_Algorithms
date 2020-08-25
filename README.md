@@ -4,6 +4,8 @@
 Repository contains the  Machine Learning algorithms
 
 [Supervised ML Algorithms](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/Supervised)
+   * [Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Linear_Regression.ipynb)
+       * [Predicting the Per capita income of Canada using previous observations from the dataset](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/LR_Exercise.ipynb)
    * [Naive Bayes Algorithm](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Naive_Bayes_Classifier.ipynb)
        * [Email Spam/Ham Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Spam_Ham_Prediction.ipynb)
        * [Wine Category Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Wine_Category_Prediction.ipynb)
