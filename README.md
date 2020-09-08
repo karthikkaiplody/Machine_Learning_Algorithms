@@ -13,7 +13,8 @@ Repository contains the  Machine Learning algorithms
        * [Email Spam/Ham Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Spam_Ham_Prediction.ipynb)
        * [Wine Category Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Wine_Category_Prediction.ipynb)
    * [OneHotEncoding](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/OneHotEncoding.ipynb)    
-   * [Decision Tree](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/DecisionTree%2BClassifier.ipynb)    
+   * [Implementing Gradient Descent](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/GradientDescent.ipynb)
+   * [Decision Tree](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/DecisionTree%2BClassifier.ipynb) 
    * [KFold cross validation](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/KFold_cross_Validation.ipynb)
    
 [UnSupervised ML Algorithms](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/UnSupervised)
