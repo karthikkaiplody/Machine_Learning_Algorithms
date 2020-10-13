@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.metrics import confusion_matrix
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
@@ -19,7 +19,7 @@ def importdata():
     print("Dataset Length: ", len(balance_data))
     print("Dataset Shape: ", balance_data.shape)
 
-    # Printing the dataset obseravtions
+    # Printing the dataset observations
     print("Dataset: ", balance_data.head())
     return balance_data
 
@@ -38,7 +38,7 @@ def splitdataset(balance_data):
 
 
 # Function to perform training with giniIndex.
-def train_using_gini(X_train, X_test, y_train):
+def train_using_gini(X_train, y_train):
     # Creating the classifier object
     clf_gini = DecisionTreeClassifier(criterion="gini",
                                       random_state=100, max_depth=3, min_samples_leaf=5)
@@ -49,7 +49,7 @@ def train_using_gini(X_train, X_test, y_train):
 
 
 # Function to perform training with entropy.
-def tarin_using_entropy(X_train, X_test, y_train):
+def tarin_using_entropy(X_train, y_train):
     # Decision tree with entropy
     clf_entropy = DecisionTreeClassifier(
         criterion="entropy", random_state=100,
@@ -86,7 +86,7 @@ def main():
     # Building Phase
     data = importdata()
     X, Y, X_train, X_test, y_train, y_test = splitdataset(data)
-    clf_gini = train_using_gini(X_train, X_test, y_train)
+    clf_gini = train_using_gini(X_train, y_train)
     clf_entropy = tarin_using_entropy(X_train, X_test, y_train)
 
     # Operational Phase
