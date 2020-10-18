@@ -10,7 +10,7 @@ Repository contains the  Machine Learning algorithms and techniques which are us
    * [Logistic Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/LogisticRegression/Logistic_Regression.ipynb)  
        * [Multi-class classification](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/LogisticRegression/Multiclass_Classification_Using_Logistic_Regression.ipynb)
    * [Naive Bayes Algorithm](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/Supervised/Classification/NaiveBayes)
-       * [Email Spam/Ham Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Spam_Ham_Prediction.ipynb)
+       * [Email Spam/Ham Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/NaiveBayes/Spam_Ham_Prediction.ipynb)
        * [Wine Category Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Wine_Category_Prediction.ipynb)
    * [DecisionTree](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/DecisionTree.py)    
       
