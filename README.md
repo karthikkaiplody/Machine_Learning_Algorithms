@@ -3,7 +3,7 @@
 # Machine Learning Algorithms
 Repository contains the  Machine Learning algorithms and techniques which are used to solve a ML problem.
 
-[Supervised ML Algorithms](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/Supervised)
+[Supervised ML Algorithms]
    * [Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Linear_Regression.ipynb)
        * [Predicting the Per capita income of Canada using previous observations from the dataset](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/LR_Exercise.ipynb)
        * [Multivariate Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Multivariate_Linear_Regression.ipynb)
@@ -14,7 +14,7 @@ Repository contains the  Machine Learning algorithms and techniques which are us
        * [Wine Category Prediction](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/Wine_Category_Prediction.ipynb)
    * [DecisionTree](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/DecisionTree.py)    
       
-[UnSupervised ML Algorithms](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/UnSupervised)
+[UnSupervised ML Algorithms]
    * [K-means Clustering](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/UnSupervised/K_means_Clustering)
 
 Techniques 
