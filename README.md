@@ -7,6 +7,7 @@ Repository contains the  Machine Learning algorithms and techniques which are us
    * [Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Linear_Regression.ipynb)
        * [Predicting the Per capita income of Canada using previous observations from the dataset](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/LR_Exercise.ipynb)
        * [Multivariate Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Multivariate_Linear_Regression.ipynb)
+       * [Python code]()      
    * [Logistic Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/LogisticRegression/Logistic_Regression.ipynb)  
        * [Multi-class classification](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Classification/LogisticRegression/Multiclass_Classification_Using_Logistic_Regression.ipynb)
    * [Naive Bayes Algorithm](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/tree/master/Supervised/Classification/NaiveBayes)
