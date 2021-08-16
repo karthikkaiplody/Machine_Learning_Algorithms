@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Machine Learning Algorithms
-Repository contains the  Machine Learning algorithms and techniques which are used to solve a ML problem.
+Repository contains the  Machine Learning algorithms and techniques which are used to solve a ML problems.
 
 ## Supervised ML Algorithms
    * [Linear Regression](https://github.com/KarthikKaiplody/Machine_Learning_Algorithms/blob/master/Supervised/Regression/Linear_Regression.ipynb)
